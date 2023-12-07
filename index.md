@@ -1,4 +1,7 @@
-#Hello World
+# Hello World
+
+Brennan Wong CPSC120 Portfolio
+=====
 
 This is my homepage! My name is Brennan Tadashi Wong and I'm a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Engineering.
 
