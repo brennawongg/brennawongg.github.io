@@ -7,7 +7,7 @@ This is my homepage! My name is Brennan Tadashi Wong and I'm a student at [Cal S
 
 ## Computer Science Projects
 
-My GitHub Page is [https://brennawongg.github.io/].
+My GitHub Page is [https://brennawongg.github.io/](https://brennawongg.github.io/).
 
 ### CPSC120
 
