@@ -10,10 +10,10 @@ My GitHub Page is https://brennawongg.github.io/.
 
 * Lab 1 & 2
 
-    Labs 1 & 2 were some of my favorites, because it gave me an easy insight into the course, I was able to meet my first lab partner and become a better team player. 
++    Labs 1 & 2 were some of my favorites, because it gave me an easy insight into the course, I was able to meet my first lab partner and become a better team player. I also got to learn how to use git commands in contrast to normally using a compiler within VSCode.
 * Lab 7
 
-    Lab 7, part 1 was a favorite since it allowed me to code a game of Blackjack. Along with practicing coding, I was able to somewhat learn the game since I'm not the most familiar with card games. I was able to code functions and make values dependent on others.
++   Lab 7, part 1 was a favorite since it allowed me to code a game of Blackjack. Along with practicing coding, I was able to somewhat learn the game since I'm not the most familiar with card games. I was able to code functions and make values dependent on others.
 * Lab 12
 
-    Lab 12, part 1 was a favorite since I've never really worked with gifs or animated code. I was able to learn simple code using the RGB scale and code functions to change the RGB values as the program runs. I also was able to use a sine_lookup_table which I had no idea what it was prior, I learned many different ways math could play into scaled values.
++   Lab 12, part 1 was a favorite since I've never really worked with gifs or animated code. I was able to learn simple code using the RGB scale and code functions to change the RGB values as the program runs. I also was able to use a sine_lookup_table which I had no idea what it was prior, I learned many different ways math could play into scaled values.
